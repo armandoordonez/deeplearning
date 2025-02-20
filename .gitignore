@@ -1,0 +1,8 @@
+/.venv/
+
+# ignore la carpeta .venv
+.venv/
+
+# ignore el archivo .env
+.env
+
